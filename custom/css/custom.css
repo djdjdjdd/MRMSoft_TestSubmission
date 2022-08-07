@@ -1,0 +1,16 @@
+.table{
+    color: black;
+    padding: 100px;
+}
+
+.nav-item{
+    list-style: none;
+    margin: 0px 10px;
+}
+.navbar-brand{
+    padding-top: 20px;
+}
+
+.btn{
+    margin-bottom: 1%;
+}
